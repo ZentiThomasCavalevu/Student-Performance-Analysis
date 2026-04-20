@@ -24,6 +24,20 @@ The dataset contains student information including:
 
 ---
 
+## Dataset Source
+Source: UCI Student Performance Dataset
+
+## How to Run
+1. Download or clone this repository
+2. Open `student-performance-analysis.ipynb` in Jupyter Notebook or VS Code
+3. Install the required libraries:
+   - pandas
+   - matplotlib
+   - seaborn
+4. Run the notebook cells in order
+
+---
+
 ## Key Analysis
 
 ### Study Time vs Performance
