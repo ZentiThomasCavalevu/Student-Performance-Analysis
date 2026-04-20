@@ -62,6 +62,14 @@ The project includes:
 
 ---
 
+## Sample Visuals
+<img width="887" height="550" alt="image" src="https://github.com/user-attachments/assets/ca060b2d-6ad2-40c8-9a1e-180c26cfc50d" />
+
+<img width="886" height="535" alt="image" src="https://github.com/user-attachments/assets/47a9d399-c098-4faa-ae82-68dd8e8a5fd4" />
+
+
+---
+
 ## Conclusion
 This analysis suggests that study habits and attendance are important factors associated with academic performance.
 
